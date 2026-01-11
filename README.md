@@ -1,5 +1,7 @@
-🏨 Hotel Reservation System - Quality Assurance Suite
+🏨 Hotel Reservation System 
+
 🌟 Project Overview
+
 This project demonstrates a comprehensive Quality Assurance (QA) approach for a Hotel Reservation System. It covers the entire Software Testing Life Cycle (STLC), from requirement analysis to performance benchmarking.
 
 🛠️ Tech Stack & Tools
